@@ -58,10 +58,10 @@ github-activity nurmuhammadfadilah
 ### Contoh Output
 
 ```
-🔄 Melakukan push 3 commit ke <username>/developer-roadmap
-🐛 Membuka issue baru di <username>/developer-roadmap
-⭐ Memberi bintang pada <username>/developer-roadmap
-🔀 Menggabungkan pull request di <username>/developer-roadmap
+🔄 Melakukan push 3 commit ke <username>/single-page
+🐛 Membuka issue baru di <username>/single-page
+⭐ Memberi bintang pada <username>/single-page
+🔀 Menggabungkan pull request di <username>/single-page
 ```
 
 ---
